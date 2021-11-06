@@ -17,9 +17,9 @@ The **bold** one is the default one.
 |---|---|---|---|---|
 |![amiga](https://user-images.githubusercontent.com/77732736/140623177-656705c9-9ae3-4482-adda-ba790e188702.png)|AMIGA|**puae**<br />amiberry<br />uae4arm|amiga| .zip .uae .adf .dms .fdi .ipf .adz .lha .hdf .hdz|
 |![amigacd32](https://user-images.githubusercontent.com/77732736/140623301-d44f60d7-11e4-4887-9c4d-311935dc4ae2.png)|AMIGA CD32|**puae**<br />uae4arm|amigacd32| .iso .cue .chd .lha|
-|[AMSTRAD CPC](System-Amstrad-CPC)|**crocods**<br />cap32|amstradcpc| .dsk .sna [crocods: .kcr]<br/>[cap32: .tap .cdt .voc .m3u .zip .7z]|
-|[ARCADE](Arcade)|**mame2003_plus**<br />mame2000<br />mame2010<br />mame2015<br />fbneo<br />fbalpha2012<br />AdvanceMame|arcade| .zip .7z|
-|ATARI 800|**atari800**|atari800| .rom .xfd .atr .atx .cdm .cas .bin .a52 .xex .zip .7z|
+|![amstradcpc](https://user-images.githubusercontent.com/77732736/140623406-ee5d2f95-1445-4026-bcb5-0858010f7978.png)|[AMSTRAD CPC](System-Amstrad-CPC)|**crocods**<br />cap32|amstradcpc| .dsk .sna [crocods: .kcr]<br/>[cap32: .tap .cdt .voc .m3u .zip .7z]|
+|![arcade](https://user-images.githubusercontent.com/77732736/140623435-0e963efe-4759-43c1-9241-bacb42df6f2f.png)|[ARCADE](Arcade)|**mame2003_plus**<br />mame2000<br />mame2010<br />mame2015<br />fbneo<br />fbalpha2012<br />AdvanceMame|arcade| .zip .7z|
+|![atari800](https://user-images.githubusercontent.com/77732736/140623458-15592923-2d27-4401-8f3a-16e5fee643c1.png)|ATARI 800|**atari800**|atari800| .rom .xfd .atr .atx .cdm .cas .bin .a52 .xex .zip .7z|
 |ATARI 2600|**stella-2014**<br />stella|atari2600| .a26 .bin .zip .7z|
 |ATARI 5200|**atari800**|atari5200| .rom .xfd .atr .atx .cdm .cas .bin .a52 .xex .zip .7z|
 |ATARI 7800|**prosystem**|atari7800| .a78 .bin .zip .7z|
