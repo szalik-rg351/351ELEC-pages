@@ -20,9 +20,9 @@ The **bold** one is the default one.
 |![amstradcpc](https://user-images.githubusercontent.com/77732736/140623406-ee5d2f95-1445-4026-bcb5-0858010f7978.png)|[AMSTRAD CPC](System-Amstrad-CPC)|**crocods**<br />cap32|amstradcpc| .dsk .sna [crocods: .kcr]<br/>[cap32: .tap .cdt .voc .m3u .zip .7z]|
 |![arcade](https://user-images.githubusercontent.com/77732736/140623435-0e963efe-4759-43c1-9241-bacb42df6f2f.png)|[ARCADE](Arcade)|**mame2003_plus**<br />mame2000<br />mame2010<br />mame2015<br />fbneo<br />fbalpha2012<br />AdvanceMame|arcade| .zip .7z|
 |![atari800](https://user-images.githubusercontent.com/77732736/140623458-15592923-2d27-4401-8f3a-16e5fee643c1.png)|ATARI 800|**atari800**|atari800| .rom .xfd .atr .atx .cdm .cas .bin .a52 .xex .zip .7z|
-|ATARI 2600|**stella-2014**<br />stella|atari2600| .a26 .bin .zip .7z|
-|ATARI 5200|**atari800**|atari5200| .rom .xfd .atr .atx .cdm .cas .bin .a52 .xex .zip .7z|
-|ATARI 7800|**prosystem**|atari7800| .a78 .bin .zip .7z|
+|![atari2600](https://user-images.githubusercontent.com/77732736/140623491-8676f4a9-ed8a-4239-8118-96c68d07e607.png)|ATARI 2600|**stella-2014**<br />stella|atari2600| .a26 .bin .zip .7z|
+|![atari5200](https://user-images.githubusercontent.com/77732736/140623502-eb5a86f9-cd6c-4c8a-a181-073999d72b6b.png)|ATARI 5200|**atari800**|atari5200| .rom .xfd .atr .atx .cdm .cas .bin .a52 .xex .zip .7z|
+|![atari7800](https://user-images.githubusercontent.com/77732736/140623520-b3761d15-5687-47fb-a2d4-ec56ba00fe72.png)|ATARI 7800|**prosystem**|atari7800| .a78 .bin .zip .7z|
 |ATARI LYNX|**handy**<br />beetle_lynx|atarilynx|.lnx .zip .7z|
 |ATARI ST|**hatari**<br />HATARISA|atarist|.st .msa .stx .dim .ipf .m3u .zip .7z|
 |SAMMY<br />ATOMISWAVE|**flycast**|atomiswave| .lst .bin .dat .zip .7z|
