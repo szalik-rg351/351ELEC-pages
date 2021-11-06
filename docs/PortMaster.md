@@ -30,7 +30,7 @@ Below is a list of the ports and whether they're known to work, along with links
 | ![NOART](https://user-images.githubusercontent.com/77732736/140623965-b880ae63-2de8-494a-bc47-aca27777a232.jpg) | CorsixTH (Theme Hospital) | <span class="text-success">Working</span> | [PortMaster Instructions](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information#corsixth-theme-hospital-available-through-portmaster) |
 | ![NOART](https://user-images.githubusercontent.com/77732736/140623965-b880ae63-2de8-494a-bc47-aca27777a232.jpg) | Devilutionx (Diablo 1) | <span class="text-success">Working</span> | [PortMaster Instructions](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information#devilutionx-diablo-1-available-through-portmaster) |
 | ![NOART](https://user-images.githubusercontent.com/77732736/140623965-b880ae63-2de8-494a-bc47-aca27777a232.jpg) | Dinothawr | <span class="text-success">Working</span> | [PortMaster Instructions](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information#dinothawr-available-through-portmaster) |
-| ![NOART](https://user-images.githubusercontent.com/77732736/140623965-b880ae63-2de8-494a-bc47-aca27777a232.jpg) | Duke Nukem 3D | <span class="text-info">Requires Tweaks</span> | [PortMaster Instructions](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information#duke-nukem-3d-available-through-portmaster) |
+| ![NOART](https://user-images.githubusercontent.com/77732736/140623965-b880ae63-2de8-494a-bc47-aca27777a232.jpg) | Duke Nukem 3D | <span class="text-success">Working</span> | [PortMaster Instructions](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information#duke-nukem-3d-available-through-portmaster) |
 | ![NOART](https://user-images.githubusercontent.com/77732736/140623965-b880ae63-2de8-494a-bc47-aca27777a232.jpg) | Exhumed | <span class="text-success">Working</span> | [PortMaster Instructions](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information#exhumed-aka-powerslave-available-through-portmaster) |
 | ![NOART](https://user-images.githubusercontent.com/77732736/140623965-b880ae63-2de8-494a-bc47-aca27777a232.jpg) | Fade to Black GL | <span class="text-white">Coming Soon</span> |
 | ![NOART](https://user-images.githubusercontent.com/77732736/140623965-b880ae63-2de8-494a-bc47-aca27777a232.jpg) | Free Heroes of Might and Magic II | <span class="text-success">Working</span> | [PortMaster Instructions](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information#free-heroes-of-might-and-magic-ii-available-through-portmaster) |
@@ -76,7 +76,6 @@ Below is a list of the ports and whether they're known to work, along with links
 
 ### Requiring Tweaks:
 
-* Duke Nukem 3d - remove sudo, libatomic.so.1 & libogg.so.0 missing
 * Nam - remove sudo, libatomic.so.1 & libogg.so.0 missing 
 
 ### Template 
