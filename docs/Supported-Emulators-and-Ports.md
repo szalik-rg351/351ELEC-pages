@@ -13,10 +13,10 @@ You will also find the correct extensions, almost all cores support .zip and .7z
 
 The **bold** one is the default one.
 
-|&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;System&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;|Logo|&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;Core/Emu&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;|ROM Path|Extension| 
+|&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;System&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;|Name|&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;Core/Emu&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;&#x2800;|ROM Path|Extension| 
 |---|---|---|---|---|
-|AMIGA|![amiga](https://user-images.githubusercontent.com/77732736/140623177-656705c9-9ae3-4482-adda-ba790e188702.png)|**puae**<br />amiberry<br />uae4arm|amiga| .zip .uae .adf .dms .fdi .ipf .adz .lha .hdf .hdz|
-|AMIGA CD32|**puae**<br />uae4arm|amigacd32| .iso .cue .chd .lha|
+|![amiga](https://user-images.githubusercontent.com/77732736/140623177-656705c9-9ae3-4482-adda-ba790e188702.png)|AMIGA|**puae**<br />amiberry<br />uae4arm|amiga| .zip .uae .adf .dms .fdi .ipf .adz .lha .hdf .hdz|
+|![amigacd32](https://user-images.githubusercontent.com/77732736/140623301-d44f60d7-11e4-4887-9c4d-311935dc4ae2.png)|AMIGA CD32|**puae**<br />uae4arm|amigacd32| .iso .cue .chd .lha|
 |[AMSTRAD CPC](System-Amstrad-CPC)|**crocods**<br />cap32|amstradcpc| .dsk .sna [crocods: .kcr]<br/>[cap32: .tap .cdt .voc .m3u .zip .7z]|
 |[ARCADE](Arcade)|**mame2003_plus**<br />mame2000<br />mame2010<br />mame2015<br />fbneo<br />fbalpha2012<br />AdvanceMame|arcade| .zip .7z|
 |ATARI 800|**atari800**|atari800| .rom .xfd .atr .atx .cdm .cas .bin .a52 .xex .zip .7z|
