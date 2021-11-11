@@ -59,14 +59,14 @@ Discussion for the base Art book theme is ongoing in this thread: https://retrop
 ### Preview
 
 * Backgrounds:
-* 
-| **Fullscreen** | **Centered** | 
+
+| Fullscreen | Centered | 
 |----|----|
 |![System View](https://i.imgur.com/1RGfbBP.png)|![System View](https://i.imgur.com/1RGfbBP.png)|
 
 * System Views:
 
-| *Video* |  *Detailed* | *Grid* |
+| Video |  Detailed | Grid |
 |----|----|----|
 |![Video View](https://i.imgur.com/21yeUMy.png)|![Detailed View](https://i.imgur.com/QauSTJf.png)|![Basic View](https://i.imgur.com/FbU32kX.png)|
 
