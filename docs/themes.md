@@ -9,7 +9,7 @@
 
 ### Basic Informations
 
-**Description:** Fork of [3:2 theme](#art-book-32) with multiple new options like Airen view, toggles for colors or font size. 
+**Description:** Fork of [3:2 theme](#art-book-32) with multiple new options like Airen view, toggles for colors or font size etc.
 
 It was specialy designed for 640x480 with 4:3 aspect ratio
 
@@ -29,7 +29,7 @@ It was specialy designed for 640x480 with 4:3 aspect ratio
 
 ![4:3 Centered](images/themes/43centered.png){: width="320" height="240"}
 
-* Screenshots _( Work in Progress ) _
+* Screenshots - _Not Finished Yet_
 
 ![4:3 Screenshots](images/themes/43screenshots.png){: width="320" height="240"}
 
