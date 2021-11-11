@@ -9,7 +9,7 @@
 
 Fork of 3:2 theme with multiple new options and specialy made for 640x480 with 4:3 aspect ratio
 
-**Github of theme:** [Link](https://github.com/szalik-rg351/es-theme-art-book-4-3) 
+**Github:** [Link](https://github.com/szalik-rg351/es-theme-art-book-4-3) 
 
 **Author:** [Szalik](https://github.com/szalik-rg351) 
 
