@@ -1,7 +1,9 @@
-# Themes
+# Default Theme List
 
 - [Device - RG351V / RG351MP](#art-book-43)
 - [Device - RG351P / RG351M](#art-book-32)
+
+***
 
 ## Art Book 4:3
 
@@ -50,6 +52,7 @@ Fork of 3:2 theme with multiple new options and specialy made for 640x480 with 4
   - [Off] Don't display game metadata
   - [On] Display the following game metadata - Title, Description, Rating, Release Date
 
+***
 
 ## Art Book 3:2
 
