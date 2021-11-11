@@ -52,9 +52,18 @@
 
 ## Art Book 3:2
 
-### Descritpion
-A simple theme for Emulation Station based on the look of a coffee table book.  Built and tested on 351Elec for the RG351P handheld.  
-Discussion for the base Art book theme is ongoing in this thread: https://retropie.org.uk/forum/topic/11728/new-theme-art-book
+### Basic Informations
+
+**Description:** A simple theme for Emulation Station based on the look of a coffee table book.  Built and tested on 351Elec for the RG351P handheld.  
+
+> Discussion for the base Art book theme is ongoing in this thread: https://retropie.org.uk/forum/topic/11728/new-theme-art-book
+
+**Github:** [Link](https://github.com/anthonycaccese/es-theme-art-book-3-2) 
+
+**Author:** [anthonycaccese](https://github.com/anthonycaccese)  _for base 3:2 theme_
+
+**Credit:** [Szalik](https://github.com/szalik-rg351) _for full screen backgrounds_
+
 
 ### Preview
 
