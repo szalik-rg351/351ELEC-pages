@@ -16,25 +16,25 @@ It was specialy designed for 640x480 with 4:3 aspect ratio
 
 **Author:** [Szalik](https://github.com/szalik-rg351) 
 
-**Credit:** [anthonycaccese](https://github.com/anthonycaccese)  for base 3:2 theme
+**Credit:** [anthonycaccese](https://github.com/anthonycaccese)  _for base 3:2 theme_
 
 ### Preview for Backgrounds
 
-* _Fullscreen_ 
+* Fullscreen
 
 ![4:3 Fullscreen](images/themes/43fullscreen.png){: width="320" height="240"}
 
-* _Centered_ 
+* Centered
 
 ![4:3 Centered](images/themes/43centered.png){: width="320" height="240"}
 
-* _Screenshots_ ( Work in Progress ) 
+* Screenshots _( Work in Progress ) _
 
 ![4:3 Screenshots](images/themes/43screenshots.png){: width="320" height="240"}
 
 ### Preview for metadata
 
-* _Metadata - Airen_ with Fullscreen backgrounds enabled
+* Metadata - Airen _with Fullscreen backgrounds enabled_
 
 ![4:3 Metadata Airen](images/themes/43airenview.png){: width="320" height="240"}
 
