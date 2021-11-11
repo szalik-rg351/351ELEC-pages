@@ -19,6 +19,7 @@
 
 **Credit:** [anthonycaccese](https://github.com/anthonycaccese)  _for base 3:2 theme_
 
+
 ### Preview for Backgrounds
 
 | Fullscreen | Centered | Screenshots - _Not Finished Yet_ |
@@ -34,6 +35,7 @@
 * Metadata - Airen _with Centered / Screenshots backgrounds enabled_
 
 ![4:3 Metadata Airen](images/themes/43airenview.png){: width="320" height="240"}
+
 
 ### Configuration
 - Background Art: Toggle background art for system view under "UI Settings" > "Theme Configuration" > "Background Art" (video: https://youtu.be/YgpRxBTLgCU)
