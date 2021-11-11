@@ -38,12 +38,12 @@
 
 
 ### Configuration
-- Background Art: Toggle background art for system view under "UI Settings" > "Theme Configuration" > "Background Art" (video: https://youtu.be/YgpRxBTLgCU)
+- Background Art: Toggle background art for system view under "UI Settings" > "Theme Configuration" > "Background Art" [video](https://youtu.be/YgpRxBTLgCU)
   - Options:
   - [Off] Don't display background art
   - [Centered] Display centered background art
   - [Full Screen] Display full screen background art
-- Metadata: Toggle metadata display for games view under "UI Settings" > "Theme Configuration" > "Metadata" (video: https://youtu.be/tCDM-nLCjQI)
+- Metadata: Toggle metadata display for games view under "UI Settings" > "Theme Configuration" > "Metadata" [video](https://youtu.be/tCDM-nLCjQI)
   - Options:
   - [Off] Don't display game metadata
   - [On] Display the following game metadata - Title, Description, Rating, Release Date
@@ -71,12 +71,12 @@ Discussion for the base Art book theme is ongoing in this thread: https://retrop
 |![Video View](https://i.imgur.com/21yeUMy.png)|![Detailed View](https://i.imgur.com/QauSTJf.png)|![Basic View](https://i.imgur.com/FbU32kX.png)|
 
 ### Configuration
-- Background Art: Toggle background art for system view under "UI Settings" > "Theme Configuration" > "Background Art" (video: https://youtu.be/YgpRxBTLgCU)
+- Background Art: Toggle background art for system view under "UI Settings" > "Theme Configuration" > "Background Art" [video](https://youtu.be/YgpRxBTLgCU)
   - Options:
   - [Off] Don't display background art
   - [Centered] Display centered background art
-  - [Full Screen] Display full screen background art (created by Szalik)
-- Metadata: Toggle metadata display for games view under "UI Settings" > "Theme Configuration" > "Metadata" (video: https://youtu.be/tCDM-nLCjQI)
+  - [Full Screen] Display full screen background art (created by [Szalik](https://github.com/szalik-rg351) )
+- Metadata: Toggle metadata display for games view under "UI Settings" > "Theme Configuration" > "Metadata" [video](https://youtu.be/tCDM-nLCjQI)
   - Options:
   - [Off] Don't display game metadata
   - [On] Display the following game metadata - Title, Description, Rating, Release Date
