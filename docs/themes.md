@@ -28,13 +28,13 @@
 
 ### Preview for metadata
 
-* Metadata - Airen _with Fullscreen backgrounds enabled_
+* Airen like
 
-![4:3 Metadata Airen](images/themes/43airenview.png){: width="320" height="240"}
+| Settings Active |  Video Screenshot | Detailed Screenshot |
+|----|----|----|
+| Fullscreen Backgrounds |![4:3 Metadata Airen](images/themes/43airenview.png)|![4:3 Metadata Airen](images/themes/43airenview.png)|
+| Centered / Screenshots Backgrounds|![4:3 Metadata Airen](images/themes/43airenview.png)|![4:3 Metadata Airen](images/themes/43airenview.png)|
 
-* Metadata - Airen _with Centered / Screenshots backgrounds enabled_
-
-![4:3 Metadata Airen](images/themes/43airenview.png){: width="320" height="240"}
 
 
 ### Configuration
@@ -58,21 +58,17 @@ Discussion for the base Art book theme is ongoing in this thread: https://retrop
 
 ### Preview
 
-* **Fullscreen** - System view
+* Backgrounds:
+* 
+| **Fullscreen** | **Centered** | 
+|----|----|
+|![System View](https://i.imgur.com/1RGfbBP.png)|![System View](https://i.imgur.com/1RGfbBP.png)|
 
-![System View](https://i.imgur.com/1RGfbBP.png){: width="320" height="240"}
+* System Views:
 
-* *Video View*
-
-![Video View](https://i.imgur.com/21yeUMy.png){: width="320" height="240"} 
-
-* *Detailed View*
-
-![Detailed View](https://i.imgur.com/QauSTJf.png){: width="320" height="240"}
-
-* *Grid View*
-
-![Basic View](https://i.imgur.com/FbU32kX.png){: width="320" height="240"} 
+| *Video* |  *Detailed* | *Grid* |
+|----|----|----|
+|![Video View](https://i.imgur.com/21yeUMy.png)|![Detailed View](https://i.imgur.com/QauSTJf.png)|![Basic View](https://i.imgur.com/FbU32kX.png)|
 
 ### Configuration
 - Background Art: Toggle background art for system view under "UI Settings" > "Theme Configuration" > "Background Art" (video: https://youtu.be/YgpRxBTLgCU)
