@@ -1,14 +1,19 @@
 # Themes
 
-- [Art Book 3:2](#art-book-32)
 - [Art Book 4:3](#art-book-43)
+- [Art Book 3:2](#art-book-32)
 
 ## Art Book 4:3
 
-### Descritpion
-Github of theme: https://github.com/szalik-rg351/es-theme-art-book-4-3
-Author: Szalik
-Fork of 3:2 theme with multiple new options for the 4:3 devices
+### Basic Informations
+
+Fork of 3:2 theme with multiple new options and specialy made for 640x480 with 4:3 aspect ratio
+
+**Github of theme:** [Link](https://github.com/szalik-rg351/es-theme-art-book-4-3) 
+
+**Author:** [Szalik](https://github.com/szalik-rg351) 
+
+**Credit for base theme:** [anthonycaccese](https://github.com/anthonycaccese)  for base 3:2 theme
 
 ### Preview for Backgrounds
 
