@@ -17,25 +17,25 @@ Fork of 3:2 theme with multiple new options and specialy made for 640x480 with 4
 
 ### Preview for Backgrounds
 
-* Fullscreen 
+* _Fullscreen_ 
 
 ![4:3 Fullscreen](images/themes/43fullscreen.png){: width="320" height="240"}
 
-* Centered 
+* _Centered_ 
 
 ![4:3 Centered](images/themes/43centered.png){: width="320" height="240"}
 
-* Screenshots ( Work in Progress ) 
+* _Screenshots_ ( Work in Progress ) 
 
 ![4:3 Screenshots](images/themes/43screenshots.png){: width="320" height="240"}
 
 ### Preview for metadata
 
-* Metadata - Airen with Fullscreen backgrounds enabled
+* _Metadata - Airen_ with Fullscreen backgrounds enabled
 
 ![4:3 Metadata Airen](images/themes/43airenview.png){: width="320" height="240"}
 
-* Metadata - Airen with Centered / Screenshots backgrounds enabled
+* _Metadata - Airen_ with Centered / Screenshots backgrounds enabled
 
 ![4:3 Metadata Airen](images/themes/43airenview.png){: width="320" height="240"}
 
