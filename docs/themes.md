@@ -21,17 +21,9 @@
 
 ### Preview for Backgrounds
 
-* Fullscreen
-
-![4:3 Fullscreen](images/themes/43fullscreen.png){: width="320" height="240"}
-
-* Centered
-
-![4:3 Centered](images/themes/43centered.png){: width="320" height="240"}
-
-* Screenshots - _Not Finished Yet_
-
-![4:3 Screenshots](images/themes/43screenshots.png){: width="320" height="240"}
+| Fullscreen | Centered | Screenshots - _Not Finished Yet_ |
+|----|----|----|
+|![4:3 Fullscreen](images/themes/43fullscreen.png)|![4:3 Centered](images/themes/43centered.png)|![4:3 Screenshots](images/themes/43screenshots.png)|
 
 ### Preview for metadata
 
