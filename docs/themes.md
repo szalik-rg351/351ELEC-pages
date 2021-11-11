@@ -9,7 +9,7 @@
 
 ### Basic Informations
 
-Fork of 3:2 theme with multiple new options and specialy made for 640x480 with 4:3 aspect ratio
+**Description:** Fork of 3:2 theme with multiple new options like Airen view, toggles for colors or font size. It was specialy made for 640x480 with 4:3 aspect ratio
 
 **Github:** [Link](https://github.com/szalik-rg351/es-theme-art-book-4-3) 
 
