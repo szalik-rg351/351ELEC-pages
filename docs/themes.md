@@ -1,7 +1,7 @@
 # Themes
 
-- [Art Book 4:3](#art-book-43)
-- [Art Book 3:2](#art-book-32)
+- [Device - RG351V / RG351MP](#art-book-43)
+- [Device - RG351P / RG351M](#art-book-32)
 
 ## Art Book 4:3
 
@@ -13,7 +13,7 @@ Fork of 3:2 theme with multiple new options and specialy made for 640x480 with 4
 
 **Author:** [Szalik](https://github.com/szalik-rg351) 
 
-**Credit for base theme:** [anthonycaccese](https://github.com/anthonycaccese)  for base 3:2 theme
+**Credit:** [anthonycaccese](https://github.com/anthonycaccese)  for base 3:2 theme
 
 ### Preview for Backgrounds
 
