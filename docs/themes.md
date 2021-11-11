@@ -36,11 +36,15 @@ Fork of 3:2 theme with multiple new options for the 4:3 devices
 
 ### Preview
 
-![image](https://user-images.githubusercontent.com/77732736/130350546-9ae276e6-cd8e-46e9-9202-a315c5c93485.png) Fullscreen 
+* Fullscreen 
+![4:3 Fullscreen](images/themes/43fullscreen.png) 
 
-![image](https://user-images.githubusercontent.com/77732736/130350573-9c687e34-54d9-4cf0-9170-4d2a0d885fd7.png) Centered 
+* Centered 
+![4:3 Centered](images/themes/43centered.png) 
 
-![image](https://user-images.githubusercontent.com/77732736/130350612-fb8a77a1-36ff-458a-8c5a-deb9c99924ee.png) Metadata
+![4:3 Screenshots](images/themes/43screenshots.png) Screenshots ( Work in Progress ) 
+
+![4:3 Metadata Airen](images/themes/43airenview.png) Metadata - Airen
 
 ### Configuration
 - Background Art: Toggle background art for system view under "UI Settings" > "Theme Configuration" > "Background Art" (video: https://youtu.be/YgpRxBTLgCU)
