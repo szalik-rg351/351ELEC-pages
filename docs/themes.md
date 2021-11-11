@@ -34,24 +34,36 @@ Discussion for the base Art book theme is ongoing in this thread: https://retrop
 ### Descritpion
 Fork of 3:2 theme with multiple new options for the 4:3 devices
 
-### Preview
+### Preview for Backgrounds
 
 * Fullscreen 
-![4:3 Fullscreen](images/themes/43fullscreen.png) 
+
+![4:3 Fullscreen](images/themes/43fullscreen.png){: width="480" height="320"}
 
 * Centered 
+
 ![4:3 Centered](images/themes/43centered.png) 
 
-![4:3 Screenshots](images/themes/43screenshots.png) Screenshots ( Work in Progress ) 
+* Screenshots ( Work in Progress ) 
 
-![4:3 Metadata Airen](images/themes/43airenview.png) Metadata - Airen
+![4:3 Screenshots](images/themes/43screenshots.png) 
+
+### Preview for metadata
+
+* Metadata - Airen with Fullscreen backgrounds enabled
+
+![4:3 Metadata Airen](images/themes/43airenview.png) 
+
+* Metadata - Airen with Centered / Screenshots backgrounds enabled
+
+![4:3 Metadata Airen](images/themes/43airenview.png) 
 
 ### Configuration
 - Background Art: Toggle background art for system view under "UI Settings" > "Theme Configuration" > "Background Art" (video: https://youtu.be/YgpRxBTLgCU)
   - Options:
   - [Off] Don't display background art
   - [Centered] Display centered background art
-  - [Full Screen] Display full screen background art (created by Szalik)
+  - [Full Screen] Display full screen background art
 - Metadata: Toggle metadata display for games view under "UI Settings" > "Theme Configuration" > "Metadata" (video: https://youtu.be/tCDM-nLCjQI)
   - Options:
   - [Off] Don't display game metadata
