@@ -77,7 +77,7 @@
 
 | Video |  Detailed | Grid |
 |----|----|----|
-|![Video View](https://i.imgur.com/21yeUMy.png)|![Detailed View](https://i.imgur.com/QauSTJf.png)|![Basic View](https://i.imgur.com/FbU32kX.png)|
+|![3:2 video](images/themes/32video.png)|![3:2 detailed](images/themes/32detailed.png)|![3:2 grid](images/themes/3-2-grid.png)|
 
 ### Configuration
 - Background Art: Toggle background art for system view under "UI Settings" > "Theme Configuration" > "Background Art" [video](https://youtu.be/YgpRxBTLgCU)
