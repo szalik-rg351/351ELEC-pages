@@ -32,8 +32,8 @@
 
 | Settings Active |  Video Screenshot | Detailed Screenshot |
 |----|----|----|
-| Fullscreen Backgrounds |![4:3 Metadata Airen](images/themes/43airenview.png)|![4:3 Metadata Airen](images/themes/43airenview.png)|
-| Centered / Screenshots Backgrounds|![4:3 Metadata Airen](images/themes/43airencenteredbackground.png)|![4:3 Metadata Airen](images/themes/43airenview.png)|
+| Fullscreen Backgrounds |![4:3 Metadata Airen](images/themes/43airenview.png)|![4:3 Metadata Airen](images/themes/43airenfullscreendetal.png)|
+| Centered / Screenshots Backgrounds|![4:3 Metadata Airen](images/themes/43airencenteredbackground.png)|![4:3 Metadata Airen](images/themes/43airencentereddetal.png)|
 
 
 
