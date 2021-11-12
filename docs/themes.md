@@ -11,7 +11,7 @@
 
 **Description:** Fork of [3:2 theme](#art-book-32) with multiple new options like Airen view, toggles for colors or font size etc.
 
-> It was specialy designed for 640x480 with 4:3 aspect ratio
+> It was specialy designed for *640x480 with 4:3 aspect ratio*
 
 **Github:** [Link](https://github.com/szalik-rg351/es-theme-art-book-4-3) 
 
@@ -33,7 +33,7 @@
 | Settings Active |  Video Screenshot | Detailed Screenshot |
 |----|----|----|
 | Fullscreen Backgrounds |![4:3 Metadata Airen](images/themes/43airenview.png)|![4:3 Metadata Airen](images/themes/43airenview.png)|
-| Centered / Screenshots Backgrounds|![4:3 Metadata Airen](images/themes/43airenview.png)|![4:3 Metadata Airen](images/themes/43airenview.png)|
+| Centered / Screenshots Backgrounds|![4:3 Metadata Airen](images/themes/43airencenteredbackground.png)|![4:3 Metadata Airen](images/themes/43airenview.png)|
 
 
 
@@ -71,7 +71,7 @@
 
 | Fullscreen | Centered | 
 |----|----|
-|![System View](https://i.imgur.com/1RGfbBP.png)|![System View](https://i.imgur.com/1RGfbBP.png)|
+|![3:2 full screen](images/themes/32fullscreen.png)|![3:2 centered](images/themes/32centered.png)|
 
 * System Views:
 
